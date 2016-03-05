@@ -37,3 +37,13 @@ permalink: /groups
 ["Beautiful Day"](https://www.youtube.com/watch?v=co6WMzDOh1o "Title"),
 ["One"](https://www.youtube.com/watch?v=ftjEcrrf7r0 "Title")
 <br><br>
+
+<footer>
+ 	<ul>
+   		<li><a href="http://kostovasandra.github.io/">My Blog</a></li>
+     	<li><a href="https://github.com/kostovasandra">Github</a></li>
+	</ul>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+			<script src="/js/bootstrap.min.js"></script>
