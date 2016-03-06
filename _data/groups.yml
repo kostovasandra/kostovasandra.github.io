@@ -1,0 +1,44 @@
+- name: Coldplay
+  songs:
+    - name: The Scientist
+      url: https://www.youtube.com/watch?v=RB-RcX5DS5A
+    - name: Hymn For The Weekend
+      url: https://www.youtube.com/watch?v=YykjpeuMNEk
+    - name: Magic
+      url: https://www.youtube.com/watch?v=Qtb11P1FWnc
+- name: Imagine Dragons
+  songs:
+    - name: Demons
+      url: https://www.youtube.com/watch?v=mWRsgZuwf_8
+    - name: Radioactive
+      url: https://www.youtube.com/watch?v=ktvTqknDobU
+- name: Florence and the Machine
+  songs:
+    - name: Shake it Out
+      url: https://www.youtube.com/watch?v=WbN0nX61rIs/
+    - name: Spectrum
+      url: https://www.youtube.com/watch?v=iC-_lVzdiFE
+    - name: Never Let Me Go
+      url: https://www.youtube.com/watch?v=zMBTvuUlm98
+- name: Artic Monkeys
+  songs:
+    - name: Do I Wanna Know
+      url: https://www.youtube.com/watch?v=bpOSxM0rNPM
+    - name: Arabella
+      url: https://www.youtube.com/watch?v=Jn6-TItCazo
+- name: Maroon 5
+  songs:
+    - name: Sugar
+      url: https://www.youtube.com/watch?v=09R8_2nJtjg
+    - name: Animals
+      url: https://www.youtube.com/watch?v=qpgTC9MDx1o
+    - name: One More Night
+      url: https://www.youtube.com/watch?v=fwK7ggA3-bU
+- name: U2
+  songs:
+    - name: With or Without You
+      url: https://www.youtube.com/watch?v=XmSdTa9kaiQ
+    - name: Beautiful Day
+      url: https://www.youtube.com/watch?v=co6WMzDOh1o
+    - name: One
+      url: https://www.youtube.com/watch?v=ftjEcrrf7r0
