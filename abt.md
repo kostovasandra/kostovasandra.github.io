@@ -1,9 +1,13 @@
 ---
-layout: default
-title: About Me
+layout: image
+title: ""
 permalink: /abt
+image: /image/smiley.gif
+position:  920px 150px
+
 ---
-![alt text](/image/smiley.gif "Logo Title Text 1"){: style="float:right;margin-right:150px;margin-top: 7px;""} 
+
+
 I am an energetic and enthusiastic person who enjoys a challenge<br> and achieving personal goals. My present career aim is to work <br>within IT. For me is very importnat to find a work that is<br> interesting and satisfying. 
 The opportunity to learn new skills and  <br> work with new technologies is particularly attractive to me.
 <br>

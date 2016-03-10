@@ -1,0 +1,46 @@
+- name: Beyonce
+  songs:
+    - name: Listen
+      url: https://www.youtube.com/watch?v=6MFjSOwIkH4
+    - name: Halo
+      url: https://www.youtube.com/watch?v=bnVUHWCynig
+    - name: Love On Top
+      url: https://www.youtube.com/watch?v=Ob7vObnFUJc
+- name: Adele
+  songs:
+    - name: Someone Like You
+      url: https://www.youtube.com/watch?v=hLQl3WQQoQ0
+    - name: Hello
+      url: https://www.youtube.com/watch?v=YQHsXMglC9A
+- name: Ed Sheeran
+  songs:
+    - name: Photograph
+      url: hhttps://www.youtube.com/watch?v=nSDgHBxUbVQ
+    - name: Don't
+      url: https://www.youtube.com/watch?v=iD2rhdFRehU
+    - name: Give Me Love
+      url: https://www.youtube.com/watch?v=FOjdXSrtUxA
+- name: John Legend
+  songs:
+    - name: All Of Me
+      url: https://www.youtube.com/watch?v=450p7goxZqg
+    - name: Save Room
+      url: https://www.youtube.com/watch?v=iOmnGzAKLvg
+    - name: Made To Love
+      url: https://www.youtube.com/watch?v=nRpjsFcb2uo     
+- name: Sia
+  songs:
+    - name: Alive
+      url: https://www.youtube.com/watch?v=t2NgsJrrAyM
+    - name: Elastic Hard
+      url: https://www.youtube.com/watch?v=qsjWd_3-LNk
+    - name: Chandalier
+      url: https://www.youtube.com/watch?v=2vjPBrBU-TM 
+- name: Lana Del Rey
+  songs:
+    - name: Born To Die
+      url: https://www.youtube.com/watch?v=Bag1gUxuU0g
+    - name: Blue Jeans
+      url: https://www.youtube.com/watch?v=JRWox-i6aAk
+    - name: Video Games
+      url: https://www.youtube.com/watch?v=cE6wxDqdOV0
