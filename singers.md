@@ -5,6 +5,7 @@ permalink: /singers
 image: /image/nota.jpg
 position: 800px 180px
 size: 400px 400px
+description: "Singers"
 ---
 
 <br>

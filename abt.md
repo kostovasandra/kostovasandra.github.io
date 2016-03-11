@@ -4,6 +4,7 @@ title: ""
 permalink: /abt
 image: /image/smiley.gif
 position:  920px 150px
+description: "About me"
 
 ---
 
